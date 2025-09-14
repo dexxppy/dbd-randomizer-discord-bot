@@ -12,6 +12,10 @@ intents.message_content = True
 intents.guilds = True
 bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 
+load_dotenv()
+TOKEN = os.getenv('DISCORD_BOT_TOKEN')
+CHANNEL_ID = int(os.getenv('LOG_CHANNEL_ID'))
+
 @bot.event
 async def on_guild_join(guild):
     log_message = ""
@@ -25,30 +29,38 @@ async def on_guild_join(guild):
         log_message = f"Error inviting to new server: {e}"
     finally:
         print(log_message)
+
         with open("bot_logs.txt", "a", encoding="utf-8") as f:
             f.write(log_message + "\n")
+
+        channel = bot.get_channel(CHANNEL_ID)
+        if channel:
+            await channel.send(log_message)
 
 @bot.event
 async def on_guild_remove(guild):
     log_message = f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] [KICK] Bot removed from {guild.name} (ID: {guild.id})"
     print(log_message)
+
     with open("bot_logs.txt", "a", encoding="utf-8") as f:
         f.write(log_message + "\n")
+
+    channel = bot.get_channel(CHANNEL_ID)
+    if channel:
+        await channel.send(log_message)
 
 @bot.listen("on_command")
 async def log_command(ctx):
     log_message = f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] [COMMAND] {ctx.author} called: '{ctx.command}' on server: {ctx.guild.name if ctx.guild else 'DM'}"
     print(log_message)
+
     with open("bot_logs.txt", "a", encoding="utf-8") as f:
         f.write(log_message + "\n")
-
 
 register_help_command(bot)
 register_character_specific_commands(bot)
 register_commands(bot, "killer")
 register_commands(bot, "survivor")
 
-load_dotenv()
-TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 bot.run(TOKEN)
 
