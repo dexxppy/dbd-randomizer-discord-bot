@@ -1,4 +1,4 @@
-# 🎲 Dead by Daylight Random Perks Bot
+# 🎲 Dead by Daylight Randomizer Bot
 
 A Discord bot that helps you randomly select Dead by Daylight setups for Killers and Survivors — perfect for challenges, custom games, or just for fun!  
 Users can roll perks, items, oferrings, or whole setups, select which ones they want to replace, and reroll with a single button click.
