@@ -49,6 +49,8 @@ class StartSetupView(discord.ui.View):
         embed.set_thumbnail(url='https://yt3.googleusercontent.com/40AgRpxhy-LBqDUDyN4kyYX6iKVa3fVoO-ztUntBOrfxcsGdUFxMGgc2PJo98zxz7OtRfkLJeg=s900-c-k-c0x00ffffff-no-rj')
         embeds.append(embed)
 
+        embed.set_footer(text="Instead of randomizing whole setup, you can also quickly draw character, perk set, item of offering! \nSee !help for more options.")
+
         return {'content': None, 'embeds': embeds}
 
     async def accept(self, interaction: discord.Interaction):
