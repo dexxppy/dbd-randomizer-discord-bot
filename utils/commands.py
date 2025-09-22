@@ -104,7 +104,7 @@ def register_help_command(bot):
             inline=False
         )
         embed.add_field(
-            name="⚙️ Setup",
+            name="⚙️ Setup (character+perks+item/addons+offering)",
             value="`!killer_setup` - Randomize whole setup for killer\n"
                   "`!survivor_setup` - Randomize whole setup for survivor\n",
             inline=False

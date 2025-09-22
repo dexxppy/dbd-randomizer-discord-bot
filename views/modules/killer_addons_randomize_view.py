@@ -50,6 +50,9 @@ class KillerAddonsRandomizeView(BaseRandomizeView):
             embed.set_thumbnail(url=addon_icon)
             embeds.append(embed)
 
+        if not self.next_step:
+            embeds[-1].set_footer(text=f'Check out !{self.character_type}_setup too!')
+
         return {"content": msg, "embeds": embeds}
                 
     def randomize(self):
