@@ -4,7 +4,16 @@ from utils.logger import send_log
 def register_events(bot, channel_id):
     @bot.event
     async def on_command_error(ctx, error):
-        await send_log(bot, channel_id, f"[ERROR] Command {ctx.command} encountered an error: {error}")
+        from discord.ext import commands
+
+        if isinstance(error, commands.CommandNotFound):
+            return
+
+        guild_name = ctx.guild.name if ctx.guild else "DM"
+        user = f"{ctx.author} (ID: {ctx.author.id})"
+
+        await send_log(bot, channel_id, f"[ERROR] Command {ctx.command} called by {user} on server {guild_name}"
+                                        f" encountered an error: {error}")
 
     @bot.event
     async def on_error(event, *args, **kwargs):
