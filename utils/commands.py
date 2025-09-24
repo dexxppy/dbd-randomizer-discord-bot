@@ -110,7 +110,8 @@ def register_help_command(bot):
             inline=False
         )
 
-        embed.set_author(name="With ♥ by dexxppy", )
+        embed.set_author(name="With ♥ by dexxppy")
+        embed.set_footer(text="Found a bug? Contact me on discord (dexxppy). Thank you!")
         await ctx.send(embed=embed)
 
 def register_character_specific_commands(bot):
