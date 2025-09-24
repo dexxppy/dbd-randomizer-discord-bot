@@ -463,9 +463,9 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/hairBrush.png"
             },
             {
-                "killer_addon_name": "Reflective Fragment",
+                "killer_addon_name": "Fragrant Tuft of Hair",
                 "killer_addon_rarity": "Uncommon",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/reflectiveFragment.png"
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/fragrantTuftOfHair.png"
             },
             {
                 "killer_addon_name": "J. Myers Memorial",
@@ -498,14 +498,14 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/lockOfHair.png"
             },
             {
-                "killer_addon_name": "Scratched Mirror",
-                "killer_addon_rarity": "Very Rare",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/scratchedMirror.png"
-            },
-            {
                 "killer_addon_name": "Tombstone Piece",
                 "killer_addon_rarity": "Very Rare",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/tombstonePiece.png"
+            },
+            {
+                "killer_addon_name": "Reflective Fragment",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/reflectiveFragment.png"
             },
             {
                 "killer_addon_name": "Vanity Mirror",
@@ -518,9 +518,9 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/judithsTombstone.png"
             },
             {
-                "killer_addon_name": "Fragrant Tuft of Hair",
+                "killer_addon_name": "Scratched Mirror",
                 "killer_addon_rarity": "Ultra Rare",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/fragrantTuftOfHair.png"
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/scratchedMirror.png"
             }
         ]
     },
@@ -1917,7 +1917,7 @@
         "killer_addons": [
             {
                 "killer_addon_name": "Modified Ammo Belt",
-                "killer_addon_rarity": "",
+                "killer_addon_rarity": "Common",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/modifiedAmmoBelt.png"
             },
             {
@@ -4261,6 +4261,113 @@
                 "killer_addon_name": "Iridescent Remnant",
                 "killer_addon_rarity": "Ultra Rare",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/IridescentRemnant.png"
+            }
+        ]
+    },
+    {
+        "killer_name": "The Krasue",
+        "killer_description": "Burong Sukapat",
+        "killer_icon": "https://www.unwrittenrulebook.com/killerphotos/TheKrasue.png",
+        "killer_addons": [
+            {
+                "killer_addon_name": "Sticky Lozenge",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/stickyLozenge.png"
+            },
+            {
+                "killer_addon_name": "Luckless Mouse",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/lucklessMouse.png"
+            },
+            {
+                "killer_addon_name": "First Libretto",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/firstLibretto.png"
+            },
+            {
+                "killer_addon_name": "Broken Tiara",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/brokenTiara.png"
+            },
+            {
+                "killer_addon_name": "Chunk of Malai",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/chunkOfMalai.png"
+            },
+            {
+                "killer_addon_name": "Crumpled Sheet Music",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/crumpledSheetMusic.png"
+            },
+            {
+                "killer_addon_name": "Wriggling Parasite",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/wrigglingParasite.png"
+            },
+            {
+                "killer_addon_name": "Defective Metronome",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/defectiveMetronome.png"
+            },
+            {
+                "killer_addon_name": "Pig’s Eye",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/pigsEye.png"
+            },
+            {
+                "killer_addon_name": "Framed Newspaper",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/framedNewspaper.png"
+            },
+            {
+                "killer_addon_name": "Theatre Binoculars",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/theaterBinoculars.png"
+            },
+            {
+                "killer_addon_name": "Janjira’s Hand",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/janjirasHand.png"
+            },
+            {
+                "killer_addon_name": "Spattered Handkerchief",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/spottedHandkerchief.png"
+            },
+            {
+                "killer_addon_name": "Dulled Knife",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/dulledKnife.png"
+            },
+            {
+                "killer_addon_name": "Rotten Swine",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/rottenSwine.png"
+            },
+            {
+                "killer_addon_name": "Queen’s Scepter",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/queensScepter.png"
+            },
+            {
+                "killer_addon_name": "Mysterious Elixir",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/iridescentElixir.png"
+            },
+            {
+                "killer_addon_name": "Lorenza’s Remains",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/lorenzasRemains.png"
+            },
+            {
+                "killer_addon_name": "Shredded Gown",
+                "killer_addon_rarity": "Ultra Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/shreddedGown.png"
+            },
+            {
+                "killer_addon_name": "Chicken Head",
+                "killer_addon_rarity": "Ultra Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/chickenHead.png"
             }
         ]
     }

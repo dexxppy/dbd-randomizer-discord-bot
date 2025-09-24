@@ -8,41 +8,6 @@
                 "offering_icon": "https://www.unwrittenrulebook.com/offerings/bloodyPartyStreamers.png"
             },
             {
-                "offering_name": "Coconut Scream Pie",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/9thAnniversary.png"
-            },
-            {
-                "offering_name": "Frightful Flan",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/frightfulFlan.png"
-            },
-            {
-                "offering_name": "Ghastly Gateau",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ghastlyGateau.png"
-            },
-            {
-                "offering_name": "Gruesome Gateau",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/gruesomeGateau.png"
-            },
-            {
-                "offering_name": "Sacrificial Cake",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sacrificialCake.png"
-            },
-            {
-                "offering_name": "Screech Cobbler",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/screechCobbler.png"
-            },
-            {
-                "offering_name": "Terrormisu",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/terrormisu.png"
-            },
-            {
                 "offering_name": "Annotated Blueprint",
                 "offering_rarity": "Common",
                 "offering_icon": "https://www.unwrittenrulebook.com/offerings/annotatedBlueprint.png"
@@ -191,36 +156,6 @@
                 "offering_name": "Sacrificial Ward",
                 "offering_rarity": "Common",
                 "offering_icon": "https://www.unwrittenrulebook.com/offerings/sacrificialWard.png"
-            },
-            {
-                "offering_name": "Arcane Dousing Rod",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/arcaneDousingRod.png"
-            },
-            {
-                "offering_name": "BBQ Invitation",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bbqInvitation.png"
-            },
-            {
-                "offering_name": "Bloodshot Eye",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bloodshotEye.png"
-            },
-            {
-                "offering_name": "Cursed Seed",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/cursedSeed.png"
-            },
-            {
-                "offering_name": "Pustula Petals",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/pustulaPetals.png"
-            },
-            {
-                "offering_name": "Red Envelope",
-                "offering_rarity": "Event",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/redEnvelope.png"
             }
         ]
     },

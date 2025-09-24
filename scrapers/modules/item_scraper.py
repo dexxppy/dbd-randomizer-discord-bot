@@ -72,9 +72,10 @@ class ItemScraper(BaseScraper):
 
                         addon_rarity = details_div.find_element(By.TAG_NAME, "span").text
 
-                        addons.append({"survivor_addon_name": addon_name,
-                                       "survivor_addon_rarity": addon_rarity,
-                                       "survivor_addon_icon": addon_icon})
+                        if addon_rarity != "Event":
+                            addons.append({"survivor_addon_name": addon_name,
+                                           "survivor_addon_rarity": addon_rarity,
+                                           "survivor_addon_icon": addon_icon})
 
                     first = False
                     popup_div.find_element(By.XPATH, ".//button[contains(@class, 'popup-close')]").click()
@@ -82,7 +83,8 @@ class ItemScraper(BaseScraper):
                 item_name = info_div.find_element(By.XPATH, ".//h2").text
                 item_rarity = info_div.find_element(By.XPATH, ".//div[contains(@class, 'survivor-badges')]//span").text
 
-                items.append({"survivor_item_name": item_name, "survivor_item_rarity": item_rarity, "survivor_item_icon": item_icon})
+                if item_rarity != "Event":
+                    items.append({"survivor_item_name": item_name, "survivor_item_rarity": item_rarity, "survivor_item_icon": item_icon})
 
             item_list = {
                 "survivor_item_family": item_family,

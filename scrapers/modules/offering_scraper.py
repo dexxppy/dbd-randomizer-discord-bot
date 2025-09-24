@@ -37,6 +37,9 @@ class OfferingScraper(BaseScraper):
                 badges = info_div.find_element(By.XPATH, './/div[contains(@class, "survivor-badges")]')
                 offering_rarity = self.get_elements_text(By.CSS_SELECTOR, "span[class^='survivor-badge rarity-badge']",
                                                          badges)
+                if offering_rarity == "Event":
+                    break
+
                 offering_character_type = self.get_elements_text(By.CSS_SELECTOR, "span[class='survivor-badge']",
                                                                  badges)
 

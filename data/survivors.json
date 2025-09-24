@@ -238,5 +238,10 @@
         "survivor_name": "Michonne Grimes",
         "survivor_description": "Relentless Protector",
         "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/MichonneGrimes.png"
+    },
+    {
+        "survivor_name": "Vee Boonyasak",
+        "survivor_description": "Energetic Drummer",
+        "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/VeeBoonyasak.png"
     }
 ]

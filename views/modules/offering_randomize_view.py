@@ -25,7 +25,6 @@ class OfferingRandomizeView(BaseRandomizeView):
         self.exclude_ids = []
 
         self.randomize()
-
         self.get_replace_button("Offering")
         self.get_accept_button()
     

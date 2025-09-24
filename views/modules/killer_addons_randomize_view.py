@@ -25,7 +25,7 @@ class KillerAddonsRandomizeView(BaseRandomizeView):
         self.random_addons_set = []
         self.exclude_ids = []
         self.selected_ids = []
-        
+
         self.randomize()
 
         self.get_select(self.random_addons_set, "addon", 1, 2)

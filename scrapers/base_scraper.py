@@ -11,9 +11,9 @@ load_dotenv()
 CHROMEDRIVER_PATH = os.getenv("CHROMEDRIVER_PATH")
 
 chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("--disable-dev-shm-usage")
+# chrome_options.add_argument("--headless")
+# chrome_options.add_argument("--no-sandbox")
+# chrome_options.add_argument("--disable-dev-shm-usage")
 
 class BaseScraper:
     def __init__(self, link: str, output_file: str, wait_time: int = 10, driver: webdriver.Chrome = None):

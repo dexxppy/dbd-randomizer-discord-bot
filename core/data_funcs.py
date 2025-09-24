@@ -34,7 +34,7 @@ def get_killer_data():
     path = "data/killers.json"
     data = get_data(path)
 
-    killer_id = 0
+    killer_id = 1
     killers = []
     addon_id = 1
 

@@ -21,21 +21,6 @@
                 "survivor_item_name": "Ranger Med-Kit",
                 "survivor_item_rarity": "Very Rare",
                 "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/purple_rangerMedKit.png"
-            },
-            {
-                "survivor_item_name": "All Hallows’ Eve Lunchbox",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/allHallowsEveLunchbox.png"
-            },
-            {
-                "survivor_item_name": "Anniversary Med-Kit",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/anniversaryMedKit.png"
-            },
-            {
-                "survivor_item_name": "Masquerade Med-Kit",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/masqueradeMedKit.png"
             }
         ],
         "survivor_addons": [
@@ -138,21 +123,6 @@
                 "survivor_item_name": "Engineer’s Toolbox",
                 "survivor_item_rarity": "Ultra Rare",
                 "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/purple_engineersToolbox.png"
-            },
-            {
-                "survivor_item_name": "Anniversary Toolbox",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/anniversaryToolbox.png"
-            },
-            {
-                "survivor_item_name": "Masquerade Toolbox",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/masqueradeToolbox.png"
-            },
-            {
-                "survivor_item_name": "Festive Toolbox",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/festiveToolbox.png"
             }
         ],
         "survivor_addons": [
@@ -230,11 +200,6 @@
                 "survivor_item_name": "Annotated Map",
                 "survivor_item_rarity": "Rare",
                 "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/rainbowMap.png"
-            },
-            {
-                "survivor_item_name": "Bloodsense Map",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/bloodsenseMap.png"
             }
         ],
         "survivor_addons": [
@@ -376,21 +341,6 @@
                 "survivor_item_name": "Utility Flashlight",
                 "survivor_item_rarity": "Very Rare",
                 "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/purple_utilityFlashlight.png"
-            },
-            {
-                "survivor_item_name": "Will O’ Wisp",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/willOWisp.png"
-            },
-            {
-                "survivor_item_name": "Masquerade Flashlight",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/masqueradeFlashlight.png"
-            },
-            {
-                "survivor_item_name": "Anniversary Flashlight",
-                "survivor_item_rarity": "Event",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/anniversaryFlashlight.png"
             }
         ],
         "survivor_addons": [

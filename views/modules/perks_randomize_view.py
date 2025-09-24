@@ -25,7 +25,6 @@ class PerksRandomizeView(BaseRandomizeView):
 
         self.random_perks = []
         self.exclude_ids = []
-
         self.randomize()
 
         self.get_select(self.random_perks, "perk", 1, 4)

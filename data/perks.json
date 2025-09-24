@@ -286,6 +286,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/friendlyCompetition.png"
         },
         {
+            "survivor_perk_name": "Ghost Notes",
+            "survivor_owner_name": "Vee Boonyasak",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/GhostNotes.png"
+        },
+        {
             "survivor_perk_name": "Hardened",
             "survivor_owner_name": "Lara Croft",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/hardened.png"
@@ -421,6 +426,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/offTheRecord.png"
         },
         {
+            "survivor_perk_name": "One-Two-Three-Four!",
+            "survivor_owner_name": "Vee Boonyasak",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/OneTwoThreeFour.png"
+        },
+        {
             "survivor_perk_name": "Open Handed",
             "survivor_owner_name": "Ace Visconti",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/open-Handed.png"
@@ -529,6 +539,11 @@
             "survivor_perk_name": "Resurgence",
             "survivor_owner_name": "Jill Valentine",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/resurgence.png"
+        },
+        {
+            "survivor_perk_name": "Road Life",
+            "survivor_owner_name": "Vee Boonyasak",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/RoadLife.png"
         },
         {
             "survivor_perk_name": "Rookie Spirit",
@@ -968,6 +983,11 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/hexNothingButMisery.png"
         },
         {
+            "killer_perk_name": "Hex: Overture of Doom",
+            "killer_owner_name": "The Krasue",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/HexOvertureOfDoom.png"
+        },
+        {
             "killer_perk_name": "Hex: Pentimento",
             "killer_owner_name": "The Artist",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/hexPentimento.png"
@@ -1183,6 +1203,11 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/rapidBrutality.png"
         },
         {
+            "killer_perk_name": "Ravenous",
+            "killer_owner_name": "The Krasue",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/Ravenous.png"
+        },
+        {
             "killer_perk_name": "Remember Me",
             "killer_owner_name": "The Nightmare",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/rememberMe.png"
@@ -1341,6 +1366,11 @@
             "killer_perk_name": "Unrelenting",
             "killer_owner_name": "All Killers",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/unrelenting.png"
+        },
+        {
+            "killer_perk_name": "Wandering Eye",
+            "killer_owner_name": "The Krasue",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/WanderingEye.png"
         },
         {
             "killer_perk_name": "Weave Attunement",
