@@ -22,6 +22,7 @@ class OfferingScraper(BaseScraper):
         )
 
         for div in offerings_divs:
+            offering_type = div.find_element(By.TAG_NAME, 'h2').text
             list_div = div.find_element(By.XPATH, './/div[contains(@class, "survivor-list")]')
             list_sub_divs = self.wait_for_all_elements_presence(By.CSS_SELECTOR, "div[class^='survivor-card']",
                                                                 list_div)
@@ -43,7 +44,8 @@ class OfferingScraper(BaseScraper):
                 offering_character_type = self.get_elements_text(By.CSS_SELECTOR, "span[class='survivor-badge']",
                                                                  badges)
 
-                offering_data = {"offering_name": offering_name, "offering_rarity": offering_rarity, "offering_icon": offering_icon}
+                offering_data = {"offering_name": offering_name, "offering_rarity": offering_rarity,
+                                 "offering_icon": offering_icon, "offering_type": offering_type}
 
                 if offering_character_type == "Killer":
                     killer_offerings.append(offering_data)

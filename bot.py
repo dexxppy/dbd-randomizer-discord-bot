@@ -3,6 +3,8 @@ import os
 
 from discord.ext import commands
 from dotenv import load_dotenv
+
+from utils.error_handler import *
 from utils.commands import register_commands, register_help_command, register_character_specific_commands
 from utils.events import register_events
 

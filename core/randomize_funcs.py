@@ -138,12 +138,12 @@ def get_random_item_addons_set(all_addons_list, initial_addons_list, item_family
 
     for addon in all_addons_list:
         if addon["survivor_item_family"] == item_family_name and start_id is None:
-            start_id = addon["survivor_addon_id"]
+            start_id = addon["survivor_addon_id"] - 1
         elif start_id is not None and addon["survivor_item_family"] != item_family_name:
-            end_id = addon["survivor_addon_id"]
+            end_id = addon["survivor_addon_id"] - 1
             break
 
-    all_addons_list = all_addons_list[start_id - 1: end_id]
+    all_addons_list = all_addons_list[start_id : end_id]
 
     if not initial_addons_list:
         while len(random_addons) < 2:

@@ -5,157 +5,188 @@
             {
                 "offering_name": "Bloody Party Streamers",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bloodyPartyStreamers.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bloodyPartyStreamers.png",
+                "offering_type": "Bloodpoint Offerings"
             },
             {
                 "offering_name": "Annotated Blueprint",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/annotatedBlueprint.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/annotatedBlueprint.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Bloodied Blueprint",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bloodiedBlueprint.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bloodiedBlueprint.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Clear Reagent",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/clearReagent.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/clearReagent.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Faint Reagent",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/faintReagent.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/faintReagent.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Torn Blueprint",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/tornBlueprint.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/tornBlueprint.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Vigo’s Blueprint",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/vigosBlueprint.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/vigosBlueprint.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Hazy Reagent",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/hazyReagent.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/hazyReagent.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Murky Reagent",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/murkyReagent.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/murkyReagent.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Airlock Doors",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/airlockDoors.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/airlockDoors.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Alien Flora",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/alienFlora.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/alienFlora.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Azarov’s Key",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/azarovsKey.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/azarovsKey.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Beef Tallow Mixture",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/beefTallowMixture.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/beefTallowMixture.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Charred Wedding Photograph",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/charredWeddingPhotograph.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/charredWeddingPhotograph.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Crow’s Eye",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/crowsEye.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/crowsEye.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Damaged Photo",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/damagedPhoto.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/damagedPhoto.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Grandma’s Cookbook",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/granmasCookbook.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/granmasCookbook.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Hawkins National Laboratory ID",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/hawkinsNationalLaboratoryID.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/hawkinsNationalLaboratoryID.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Heart Locket",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/heartLocket.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/heartLocket.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Ichorous Loam",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ichorousLoam.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ichorousLoam.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Jigsaw Piece",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/jigsawPiece.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/jigsawPiece.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "MacMillan’s Phalanx Bone",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/macMillansPhalanxBone.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/macMillansPhalanxBone.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Mary’s Letter",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/marysLetter.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/marysLetter.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "RPD Badge",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/rpdBadge.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/rpdBadge.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Shattered Bottle",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shatteredBottle.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shatteredBottle.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Shattered Glasses",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shatteredGlasses.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shatteredGlasses.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Strode Realty Key",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/strodeRealtyKey.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/strodeRealtyKey.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "The Last Mask",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/theLastMask.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/theLastMask.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "The Pied Piper",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/thePiedPiper.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/thePiedPiper.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Yamaoka Family Crest",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/yamaokaFamilyCrest.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/yamaokaFamilyCrest.png",
+                "offering_type": "Map Selection"
             },
             {
                 "offering_name": "Sacrificial Ward",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sacrificialWard.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sacrificialWard.png",
+                "offering_type": "Ward Offerings"
             }
         ]
     },
@@ -165,142 +196,170 @@
             {
                 "offering_name": "Escape! Cake",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/escapeCake.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/escapeCake.png",
+                "offering_type": "Bloodpoint Offerings"
             },
             {
                 "offering_name": "Sealed Envelope",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sealedEnvelope.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sealedEnvelope.png",
+                "offering_type": "Bloodpoint Offerings"
             },
             {
                 "offering_name": "Bound Envelope",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/boundEnvelope.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/boundEnvelope.png",
+                "offering_type": "Bloodpoint Offerings"
             },
             {
                 "offering_name": "Primrose Blossom Sachet",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/primroseBlossomSachet.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/primroseBlossomSachet.png",
+                "offering_type": "Altruism Offerings"
             },
             {
                 "offering_name": "Fresh Primrose Blossom",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshPrimroseBlossom.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshPrimroseBlossom.png",
+                "offering_type": "Altruism Offerings"
             },
             {
                 "offering_name": "Fragrant Primrose Blossom",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantPrimroseBlossom.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantPrimroseBlossom.png",
+                "offering_type": "Altruism Offerings"
             },
             {
                 "offering_name": "Sweet William Sachet",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sweetWilliamSachet.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/sweetWilliamSachet.png",
+                "offering_type": "Boldness Offerings"
             },
             {
                 "offering_name": "Fresh Sweet William",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshSweetWilliam.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshSweetWilliam.png",
+                "offering_type": "Boldness Offerings"
             },
             {
                 "offering_name": "Fragrant Sweet William",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantSweetWilliam.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantSweetWilliam.png",
+                "offering_type": "Boldness Offerings"
             },
             {
                 "offering_name": "Bog Laurel Sachet",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bogLaurelSachet.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/bogLaurelSachet.png",
+                "offering_type": "Objectives Offerings"
             },
             {
                 "offering_name": "Fresh Bog Laurel",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshBogLaurel.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshBogLaurel.png",
+                "offering_type": "Objectives Offerings"
             },
             {
                 "offering_name": "Fragrant Bog Laurel",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantBogLaurel.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantBogLaurel.png",
+                "offering_type": "Objectives Offerings"
             },
             {
                 "offering_name": "Crispleaf Amaranth Sachet",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/crispleafAmaranthSachet.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/crispleafAmaranthSachet.png",
+                "offering_type": "Survival Offerings"
             },
             {
                 "offering_name": "Fresh Crispleaf Amaranth",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshCrispleafAmaranth.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/freshCrispleafAmaranth.png",
+                "offering_type": "Survival Offerings"
             },
             {
                 "offering_name": "Fragrant Crispleaf Amaranth",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantCrispleafAmaranth.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/fragrantCrispleafAmaranth.png",
+                "offering_type": "Survival Offerings"
             },
             {
                 "offering_name": "Chalk Pouch",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/chalkPouch.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/chalkPouch.png",
+                "offering_type": "Luck Offerings"
             },
             {
                 "offering_name": "Cream Chalk Pouch",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/creamChalkPouch.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/creamChalkPouch.png",
+                "offering_type": "Luck Offerings"
             },
             {
                 "offering_name": "Salt Pouch",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/saltPouch.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/saltPouch.png",
+                "offering_type": "Luck Offerings"
             },
             {
                 "offering_name": "Black Salt Statuette",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/blackSaltStatuette.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/blackSaltStatuette.png",
+                "offering_type": "Luck Offerings"
             },
             {
                 "offering_name": "Ivory Chalk Pouch",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ivoryChalkPouch.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ivoryChalkPouch.png",
+                "offering_type": "Luck Offerings"
             },
             {
                 "offering_name": "Vigo’s Jar of Salty Lips",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/vigosJarOfSaltyLips.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/vigosJarOfSaltyLips.png",
+                "offering_type": "Luck Offerings"
             },
             {
                 "offering_name": "Tarnished Coin",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/tarnishedCoin.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/tarnishedCoin.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Petrified Oak",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/petrifiedOak.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/petrifiedOak.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Shiny Coin",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shinyCoin.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shinyCoin.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Shroud of Union",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shroudOfUnion.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shroudOfUnion.png",
+                "offering_type": "Shroud Offerings"
             },
             {
                 "offering_name": "Vigo’s Shroud",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/vigosShroud.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/vigosShroud.png",
+                "offering_type": "Shroud Offerings"
             },
             {
                 "offering_name": "Shroud of Separation",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shroudOfSeparation.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shroudOfSeparation.png",
+                "offering_type": "Shroud Offerings"
             },
             {
                 "offering_name": "White Ward",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/whiteWard.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/whiteWard.png",
+                "offering_type": "Ward Offerings"
             }
         ]
     },
@@ -310,117 +369,140 @@
             {
                 "offering_name": "Hollow Shell",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/hollowShell.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/hollowShell.png",
+                "offering_type": "Bloodpoint Offerings"
             },
             {
                 "offering_name": "Survivor Pudding",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/survivorPudding.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/survivorPudding.png",
+                "offering_type": "Bloodpoint Offerings"
             },
             {
                 "offering_name": "Tanager Wreath",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/tanagerWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/tanagerWreath.png",
+                "offering_type": "Brutality Offerings"
             },
             {
                 "offering_name": "Devout Tanager Wreath",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutTanagerWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutTanagerWreath.png",
+                "offering_type": "Brutality Offerings"
             },
             {
                 "offering_name": "Ardent Tanager Wreath",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentTanagerWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentTanagerWreath.png",
+                "offering_type": "Brutality Offerings"
             },
             {
                 "offering_name": "Raven Wreath",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ravenWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ravenWreath.png",
+                "offering_type": "Deviousness Offerings"
             },
             {
                 "offering_name": "Devout Raven Wreath",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutRavenWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutRavenWreath.png",
+                "offering_type": "Deviousness Offerings"
             },
             {
                 "offering_name": "Ardent Raven Wreath",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentRavenWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentRavenWreath.png",
+                "offering_type": "Deviousness Offerings"
             },
             {
                 "offering_name": "Spotted Owl Wreath",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/spottedOwlWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/spottedOwlWreath.png",
+                "offering_type": "Hunter Offerings"
             },
             {
                 "offering_name": "Devout Spotted Owl Wreath",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutSpottedOwlWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutSpottedOwlWreath.png",
+                "offering_type": "Hunter Offerings"
             },
             {
                 "offering_name": "Ardent Spotted Owl Wreath",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentSpottedOwlWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentSpottedOwlWreath.png",
+                "offering_type": "Hunter Offerings"
             },
             {
                 "offering_name": "Shrike Wreath",
                 "offering_rarity": "Common",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shrikeWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shrikeWreath.png",
+                "offering_type": "Sacrifice Offerings"
             },
             {
                 "offering_name": "Devout Shrike Wreath",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutShrikeWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/devoutShrikeWreath.png",
+                "offering_type": "Sacrifice Offerings"
             },
             {
                 "offering_name": "Ardent Shrike Wreath",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentShrikeWreath.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ardentShrikeWreath.png",
+                "offering_type": "Sacrifice Offerings"
             },
             {
                 "offering_name": "Mouldy Oak",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/moldyOak.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/moldyOak.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Scratched Coin",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/scratchedCoin.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/scratchedCoin.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Rotten Oak",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/rottenOak.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/rottenOak.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Cut Coin",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/cutCoin.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/cutCoin.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Putrid Oak",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/putridOak.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/putridOak.png",
+                "offering_type": "Map Modification"
             },
             {
                 "offering_name": "Ivory Memento Mori",
                 "offering_rarity": "Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ivoryMementoMori.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ivoryMementoMori.png",
+                "offering_type": "Memento Mori"
             },
             {
                 "offering_name": "Ebony Memento Mori",
                 "offering_rarity": "Ultra Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ebonyMementoMori.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/ebonyMementoMori.png",
+                "offering_type": "Memento Mori"
             },
             {
                 "offering_name": "Shroud of Vanishing",
                 "offering_rarity": "Uncommon",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shroudOfBinding.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/shroudOfBinding.png",
+                "offering_type": "Shroud Offerings"
             },
             {
                 "offering_name": "Black Ward",
                 "offering_rarity": "Very Rare",
-                "offering_icon": "https://www.unwrittenrulebook.com/offerings/blackWard.png"
+                "offering_icon": "https://www.unwrittenrulebook.com/offerings/blackWard.png",
+                "offering_type": "Ward Offerings"
             }
         ]
     }

@@ -120,6 +120,7 @@ def get_offerings_data():
             for offering in row["offerings"]:
                 killer_offerings.append({"offering_id": killer_offering_id,
                                          "offering_name": offering["offering_name"],
+                                         "offering_type": offering["offering_type"],
                                          "offering_rarity": offering["offering_rarity"],
                                          "offering_icon": offering["offering_icon"]})
                 killer_offering_id += 1
@@ -127,6 +128,7 @@ def get_offerings_data():
             for offering in row["offerings"]:
                 survivor_offerings.append({"offering_id": survivor_offering_id,
                                            "offering_name": offering["offering_name"],
+                                           "offering_type": offering["offering_type"],
                                            "offering_rarity": offering["offering_rarity"],
                                            "offering_icon": offering["offering_icon"]})
                 survivor_offering_id += 1

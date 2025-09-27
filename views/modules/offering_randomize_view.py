@@ -36,10 +36,11 @@ class OfferingRandomizeView(BaseRandomizeView):
         offering_name = self.random_offering[f"offering_name"]
         offering_rarity = self.random_offering[f"offering_rarity"]
         offering_icon = self.random_offering[f"offering_icon"]
+        offering_type = self.random_offering[f"offering_type"]
 
         embed = discord.Embed(
             title=offering_name,
-            description=f'of *{offering_rarity}* rarity',
+            description=f'{offering_type} \n of *{offering_rarity}* rarity',
             color=discord.Color.dark_purple()
         )
         embed.set_thumbnail(url=offering_icon)
