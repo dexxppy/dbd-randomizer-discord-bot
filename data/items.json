@@ -80,7 +80,7 @@
                 "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/abdominalDressing.png"
             },
             {
-                "survivor_addon_name": "Anti-Haemorrhagic Syringe",
+                "survivor_addon_name": "Anti-Exhaustion Syringe",
                 "survivor_addon_rarity": "Ultra Rare",
                 "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/anti-haemorrhagicSyringe.png"
             },
@@ -321,93 +321,6 @@
                 "survivor_addon_name": "Potent Extract",
                 "survivor_addon_rarity": "Ultra Rare",
                 "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/potentExtract.png"
-            }
-        ]
-    },
-    {
-        "survivor_item_family": "Flashlight",
-        "survivor_items": [
-            {
-                "survivor_item_name": "Flashlight",
-                "survivor_item_rarity": "Uncommon",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/yellow_flashlight.png"
-            },
-            {
-                "survivor_item_name": "Sport Flashlight",
-                "survivor_item_rarity": "Rare",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/green_sportFlashlight.png"
-            },
-            {
-                "survivor_item_name": "Utility Flashlight",
-                "survivor_item_rarity": "Very Rare",
-                "survivor_item_icon": "https://www.unwrittenrulebook.com/survivoritems/purple_utilityFlashlight.png"
-            }
-        ],
-        "survivor_addons": [
-            {
-                "survivor_addon_name": "Power Bulb",
-                "survivor_addon_rarity": "Common",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/powerBulb.png"
-            },
-            {
-                "survivor_addon_name": "Battery",
-                "survivor_addon_rarity": "Common",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/battery.png"
-            },
-            {
-                "survivor_addon_name": "Leather Grip",
-                "survivor_addon_rarity": "Common",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/leatherGrip.png"
-            },
-            {
-                "survivor_addon_name": "Wide Lens",
-                "survivor_addon_rarity": "Common",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/wideLens.png"
-            },
-            {
-                "survivor_addon_name": "TIR Optic",
-                "survivor_addon_rarity": "Uncommon",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/tirOptic.png"
-            },
-            {
-                "survivor_addon_name": "Heavy Duty Battery",
-                "survivor_addon_rarity": "Uncommon",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/heavyDutyBattery.png"
-            },
-            {
-                "survivor_addon_name": "Focus Lens",
-                "survivor_addon_rarity": "Uncommon",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/focusLens.png"
-            },
-            {
-                "survivor_addon_name": "Rubber Grip",
-                "survivor_addon_rarity": "Uncommon",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/rubberGrip.png"
-            },
-            {
-                "survivor_addon_name": "Low Amp Filament",
-                "survivor_addon_rarity": "Uncommon",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/lowAmpFilament.png"
-            },
-            {
-                "survivor_addon_name": "Long Life Battery",
-                "survivor_addon_rarity": "Rare",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/longLifeBattery.png"
-            },
-            {
-                "survivor_addon_name": "Intense Halogen",
-                "survivor_addon_rarity": "Rare",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/intenseHalogen.png"
-            },
-            {
-                "survivor_addon_name": "High-End Sapphire Lens",
-                "survivor_addon_rarity": "Very Rare",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/high-EndSapphireLens.png"
-            },
-            {
-                "survivor_addon_name": "Odd Bulb",
-                "survivor_addon_rarity": "Ultra Rare",
-                "survivor_addon_icon": "https://www.unwrittenrulebook.com/survivoraddons/oddBulb.png"
             }
         ]
     }

@@ -3,6 +3,7 @@ import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from dotenv import load_dotenv
@@ -23,7 +24,7 @@ class BaseScraper:
 
         if driver is None:
             service = Service(CHROMEDRIVER_PATH)
-            self.driver = webdriver.Chrome(service=service, options=chrome_options)
+            self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         else:
             self.driver = driver
 

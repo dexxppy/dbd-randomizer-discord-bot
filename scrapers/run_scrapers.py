@@ -12,10 +12,10 @@ CHROMEDRIVER_PATH = os.getenv("CHROMEDRIVER_PATH")
 
 def run_scrapers():
     scrapers = [
-        # SurvivorScraper(),
-        # KillerScraper(),
-        # PerkScraper(),
-        # ItemScraper(),
+        SurvivorScraper(),
+        KillerScraper(),
+        PerkScraper(),
+        ItemScraper(),
         OfferingScraper(),
     ]
 

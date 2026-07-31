@@ -76,6 +76,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/botanyKnowledge.png"
         },
         {
+            "survivor_perk_name": "Bound by Obsession (Object of Obsession)",
+            "survivor_owner_name": "Laurie Strode",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/objectOfObsession.png"
+        },
+        {
             "survivor_perk_name": "Breakdown",
             "survivor_owner_name": "Jeff Johansen",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/breakdown.png"
@@ -109,6 +114,11 @@
             "survivor_perk_name": "Champion of Light",
             "survivor_owner_name": "Alan Wake",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/championOfLight.png"
+        },
+        {
+            "survivor_perk_name": "Change of Plan",
+            "survivor_owner_name": "Dustin Henderson",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/ChangeOfPlan.png"
         },
         {
             "survivor_perk_name": "Chemical Trap",
@@ -146,6 +156,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/counterforce.png"
         },
         {
+            "survivor_perk_name": "Cross-Examination",
+            "survivor_owner_name": "Shane Wigwaas",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/CrossExamination.png"
+        },
+        {
             "survivor_perk_name": "Cut Loose",
             "survivor_owner_name": "Thalita Lyra",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/cutLoose.png"
@@ -174,11 +189,6 @@
             "survivor_perk_name": "Deception",
             "survivor_owner_name": "Élodie Rakoto",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/deception.png"
-        },
-        {
-            "survivor_perk_name": "Decisive Strike",
-            "survivor_owner_name": "Laurie Strode",
-            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/decisiveStrike.png"
         },
         {
             "survivor_perk_name": "Deja Vu",
@@ -216,6 +226,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/doNoHarm.png"
         },
         {
+            "survivor_perk_name": "Down To The Last (Sole Survivor)",
+            "survivor_owner_name": "Laurie Strode",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/soleSurvivor.png"
+        },
+        {
             "survivor_perk_name": "Dramaturgy",
             "survivor_owner_name": "Nicolas Cage",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/dramaturgy.png"
@@ -236,6 +251,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/empathy.png"
         },
         {
+            "survivor_perk_name": "Extrasensory Perception",
+            "survivor_owner_name": "Eleven",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/ExtrasensoryPerception.png"
+        },
+        {
             "survivor_perk_name": "Exultation",
             "survivor_owner_name": "Trevor Belmont",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/Exultation.png"
@@ -247,13 +267,18 @@
         },
         {
             "survivor_perk_name": "Fast Track",
-            "survivor_owner_name": "Yun-Jin Lee",
+            "survivor_owner_name": "Lee Yun-Jin",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/fastTrack.png"
         },
         {
             "survivor_perk_name": "Finesse",
             "survivor_owner_name": "Lara Croft",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/finesse.png"
+        },
+        {
+            "survivor_perk_name": "Five Moves Ahead",
+            "survivor_owner_name": "Kwon Tae-young",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/FiveMovesAhead.png"
         },
         {
             "survivor_perk_name": "Fixated",
@@ -269,6 +294,11 @@
             "survivor_perk_name": "Flip-Flop",
             "survivor_owner_name": "Ash Williams",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/flip-Flop.png"
+        },
+        {
+            "survivor_perk_name": "Flow State",
+            "survivor_owner_name": "Kwon Tae-young",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/FlowState.png"
         },
         {
             "survivor_perk_name": "Fogwise",
@@ -356,6 +386,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/leftBehind.png"
         },
         {
+            "survivor_perk_name": "Lend a Hand",
+            "survivor_owner_name": "Shane Wigwaas",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/LendaHand.png"
+        },
+        {
             "survivor_perk_name": "Light-Footed",
             "survivor_owner_name": "Ellen Ripley",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/light-Footed.png"
@@ -414,11 +449,6 @@
             "survivor_perk_name": "No One Left Behind",
             "survivor_owner_name": "All Survivors",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/noOneLeftBehind.png"
-        },
-        {
-            "survivor_perk_name": "Object of Obsession",
-            "survivor_owner_name": "Laurie Strode",
-            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/objectOfObsession.png"
         },
         {
             "survivor_perk_name": "Off the Record",
@@ -577,7 +607,7 @@
         },
         {
             "survivor_perk_name": "Self-Preservation",
-            "survivor_owner_name": "Yun-Jin Lee",
+            "survivor_owner_name": "Lee Yun-Jin",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/self-Preservation.png"
         },
         {
@@ -597,13 +627,8 @@
         },
         {
             "survivor_perk_name": "Smash Hit",
-            "survivor_owner_name": "Yun-Jin Lee",
+            "survivor_owner_name": "Lee Yun-Jin",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/smashHit.png"
-        },
-        {
-            "survivor_perk_name": "Sole Survivor",
-            "survivor_owner_name": "Laurie Strode",
-            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/soleSurvivor.png"
         },
         {
             "survivor_perk_name": "Solidarity",
@@ -656,9 +681,19 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/teamworkCollectiveStealth.png"
         },
         {
+            "survivor_perk_name": "Teamwork: Full Circuit",
+            "survivor_owner_name": "Dustin Henderson",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/TeamworkFullCircuit.png"
+        },
+        {
             "survivor_perk_name": "Teamwork: Power of Two",
             "survivor_owner_name": "Thalita Lyra",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/teamworkPowerOfTwo.png"
+        },
+        {
+            "survivor_perk_name": "Teamwork: Softspoken",
+            "survivor_owner_name": "Eleven",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/TeamworkSoftSpoken.png"
         },
         {
             "survivor_perk_name": "Teamwork: Throw Down",
@@ -721,6 +756,11 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/wakeUp.png"
         },
         {
+            "survivor_perk_name": "We See You",
+            "survivor_owner_name": "Eleven",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/WeSeeYou.png"
+        },
+        {
             "survivor_perk_name": "We’ll Make It",
             "survivor_owner_name": "All Survivors",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/wellMakeIt.png"
@@ -736,6 +776,16 @@
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/wicked.png"
         },
         {
+            "survivor_perk_name": "Wide Open Throttle",
+            "survivor_owner_name": "Shane Wigwaas",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/WideOpenThrottle.png"
+        },
+        {
+            "survivor_perk_name": "Will to Live (Decisive Strike)",
+            "survivor_owner_name": "Laurie Strode",
+            "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/decisiveStrike.png"
+        },
+        {
             "survivor_perk_name": "Windows of Opportunity",
             "survivor_owner_name": "Kate Denson",
             "survivor_perk_icon": "https://www.unwrittenrulebook.com/survivorperks/windowsOfOpportunity.png"
@@ -747,6 +797,16 @@
         }
     ],
     "killer_perks": [
+        {
+            "killer_perk_name": "Batteries Included",
+            "killer_owner_name": "The Good Guy",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/batteriesIncluded.png"
+        },
+        {
+            "killer_perk_name": "BBQ and Chilli",
+            "killer_owner_name": "The Cannibal",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/barbecueAndChilli.png"
+        },
         {
             "killer_perk_name": "Beast of Prey",
             "killer_owner_name": "The Huntress",
@@ -803,6 +863,11 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/cruelLimits.png"
         },
         {
+            "killer_perk_name": "Cull The Weak (Dying Light)",
+            "killer_owner_name": "The Shape",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/dyingLight.png"
+        },
+        {
             "killer_perk_name": "Dark Arrogance",
             "killer_owner_name": "The Lich",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/darkArrogance.png"
@@ -856,11 +921,6 @@
             "killer_perk_name": "Dragon’s Grip",
             "killer_owner_name": "The Blight",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/dragonsGrip.png"
-        },
-        {
-            "killer_perk_name": "Dying Light",
-            "killer_owner_name": "The Shape",
-            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/dyingLight.png"
         },
         {
             "killer_perk_name": "Enduring",
@@ -968,6 +1028,11 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/hexHauntedGround.png"
         },
         {
+            "killer_perk_name": "Hex: Hive Mind",
+            "killer_owner_name": "The First",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/HexHiveMind.png"
+        },
+        {
             "killer_perk_name": "Hex: Huntress Lullaby",
             "killer_owner_name": "The Huntress",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/hexHuntressLullaby.png"
@@ -1071,6 +1136,11 @@
             "killer_perk_name": "Iron Maiden",
             "killer_owner_name": "The Legion",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/ironMaiden.png"
+        },
+        {
+            "killer_perk_name": "Keep Them Waiting (Save The Best For Last)",
+            "killer_owner_name": "The Shape",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/saveTheBestForLast.png"
         },
         {
             "killer_perk_name": "Knock Out",
@@ -1178,11 +1248,6 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/PhantomFear.png"
         },
         {
-            "killer_perk_name": "Play With Your Food",
-            "killer_owner_name": "The Shape",
-            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/playWithYourFood.png"
-        },
-        {
             "killer_perk_name": "Pop Goes The Weasel",
             "killer_owner_name": "The Clown",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/popGoesTheWeasel.png"
@@ -1191,6 +1256,11 @@
             "killer_perk_name": "Predator",
             "killer_owner_name": "The Wraith",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/predator.png"
+        },
+        {
+            "killer_perk_name": "Rampage",
+            "killer_owner_name": "The Slasher",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/Rampage.png"
         },
         {
             "killer_perk_name": "Rancor",
@@ -1213,9 +1283,9 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/rememberMe.png"
         },
         {
-            "killer_perk_name": "Save The Best For Last",
-            "killer_owner_name": "The Shape",
-            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/saveTheBestForLast.png"
+            "killer_perk_name": "Scared To Death",
+            "killer_owner_name": "The Slasher",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/ScaredToDeath.png"
         },
         {
             "killer_perk_name": "Scourge Hook: Floods of Rage",
@@ -1248,6 +1318,16 @@
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/scourgeHookGiftOfPain.png"
         },
         {
+            "killer_perk_name": "Secret Project",
+            "killer_owner_name": "The First",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/SecretProject.png"
+        },
+        {
+            "killer_perk_name": "See How They Run (Play With Your Food)",
+            "killer_owner_name": "The Shape",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/playWithYourFood.png"
+        },
+        {
             "killer_perk_name": "Septic Touch",
             "killer_owner_name": "The Dredge",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/septicTouch.png"
@@ -1261,6 +1341,11 @@
             "killer_perk_name": "Shattered Hope",
             "killer_owner_name": "All Killers",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/shatteredHope.png"
+        },
+        {
+            "killer_perk_name": "Silent Shadow",
+            "killer_owner_name": "The Slasher",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/SilentShadow.png"
         },
         {
             "killer_perk_name": "Sloppy Butcher",
@@ -1336,6 +1421,11 @@
             "killer_perk_name": "Trail of Torment",
             "killer_owner_name": "The Executioner",
             "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/trailOfTorment.png"
+        },
+        {
+            "killer_perk_name": "Turn Back The Clock",
+            "killer_owner_name": "The First",
+            "killer_perk_icon": "https://www.unwrittenrulebook.com/killerperks/TurnBackTheClock.png"
         },
         {
             "killer_perk_name": "Ultimate Weapon",

@@ -120,7 +120,7 @@
         "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/ElodieRakoto.png"
     },
     {
-        "survivor_name": "Yun-Jin Lee",
+        "survivor_name": "Lee Yun-Jin",
         "survivor_description": "Self-Interested Music Producer",
         "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/Yun-JinLee.png"
     },
@@ -243,5 +243,25 @@
         "survivor_name": "Vee Boonyasak",
         "survivor_description": "Energetic Drummer",
         "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/VeeBoonyasak.png"
+    },
+    {
+        "survivor_name": "Dustin Henderson",
+        "survivor_description": "Brilliant High School Student",
+        "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/DustinHenderson.png"
+    },
+    {
+        "survivor_name": "Eleven",
+        "survivor_description": "Former Test Subject",
+        "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/Eleven.png"
+    },
+    {
+        "survivor_name": "Kwon Tae-young",
+        "survivor_description": "Hard-Working Perfectionist",
+        "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/KwonTae-young.png"
+    },
+    {
+        "survivor_name": "Shane Wigwaas",
+        "survivor_description": "Atoning Defense Attorney",
+        "survivor_icon": "https://www.unwrittenrulebook.com/survivorphotos/ShaneWiigwaas.png"
     }
 ]

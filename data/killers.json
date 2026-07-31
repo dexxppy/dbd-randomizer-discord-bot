@@ -2369,6 +2369,11 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/luckyBlade.png"
             },
             {
+                "killer_addon_name": "Bloody Boa",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/bloodyBoa.png"
+            },
+            {
                 "killer_addon_name": "Ji-Woon’s Autograph",
                 "killer_addon_rarity": "Uncommon",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ji-WoonsAutograph.png"
@@ -2377,11 +2382,6 @@
                 "killer_addon_name": "Caged Heart Shoes",
                 "killer_addon_rarity": "Uncommon",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/cagedHeartShoes.png"
-            },
-            {
-                "killer_addon_name": "On Target Single",
-                "killer_addon_rarity": "Uncommon",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/onTargetSingle.png"
             },
             {
                 "killer_addon_name": "Tequila Moonrock",
@@ -2404,9 +2404,9 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/melodiousMurder.png"
             },
             {
-                "killer_addon_name": "Bloody Boa",
+                "killer_addon_name": "On Target Single",
                 "killer_addon_rarity": "Rare",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/bloodyBoa.png"
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/onTargetSingle.png"
             },
             {
                 "killer_addon_name": "Fizz-Spin Soda",
@@ -2424,14 +2424,14 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/trickBlades.png"
             },
             {
-                "killer_addon_name": "Edge of Revival",
-                "killer_addon_rarity": "Very Rare",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/edgeOfRevivalAlbum.png"
-            },
-            {
                 "killer_addon_name": "Diamond Cufflinks",
                 "killer_addon_rarity": "Very Rare",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/diamondCufflinks.png"
+            },
+            {
+                "killer_addon_name": "Edge of Revival Album",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/edgeOfRevivalAlbum.png"
             },
             {
                 "killer_addon_name": "Iridescent Photocard",
@@ -3317,14 +3317,14 @@
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/diagnosticToolRepair.png"
             },
             {
-                "killer_addon_name": "Nutritional Slurry",
-                "killer_addon_rarity": "Common",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/nutritionalSlurry.png"
-            },
-            {
                 "killer_addon_name": "Heavy Water",
                 "killer_addon_rarity": "Common",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/heavyWater.png"
+            },
+            {
+                "killer_addon_name": "Nutritional Slurry",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/nutritionalSlurry.png"
             },
             {
                 "killer_addon_name": "Cremated Remains",
@@ -3604,11 +3604,6 @@
                 "killer_addon_name": "Plastic Bag",
                 "killer_addon_rarity": "Very Rare",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/plasticBag.png"
-            },
-            {
-                "killer_addon_name": "Mirror Shards",
-                "killer_addon_rarity": "Very Rare",
-                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/mirrorShards.png"
             },
             {
                 "killer_addon_name": "Hard Hat",
@@ -4368,6 +4363,220 @@
                 "killer_addon_name": "Chicken Head",
                 "killer_addon_rarity": "Ultra Rare",
                 "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/chickenHead.png"
+            }
+        ]
+    },
+    {
+        "killer_name": "The First",
+        "killer_description": "Henry Creel",
+        "killer_icon": "https://www.unwrittenrulebook.com/killerphotos/TheFirst.png",
+        "killer_addons": [
+            {
+                "killer_addon_name": "Stained Glass Mural",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/StainedGlassMural.png"
+            },
+            {
+                "killer_addon_name": "Orderly ID",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/OrderlyID.png"
+            },
+            {
+                "killer_addon_name": "Bead Maze",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BeadMaze.png"
+            },
+            {
+                "killer_addon_name": "Mid-Century Radio",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/Mid-CenturyRadio.png"
+            },
+            {
+                "killer_addon_name": "Bloody Roller Skate",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BloodyRollerSkate.png"
+            },
+            {
+                "killer_addon_name": "Smashed Cassette Deck",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/SmashedCassetteDeck.png"
+            },
+            {
+                "killer_addon_name": "Shattered Wrist Rocket",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ShatteredWristRocket.png"
+            },
+            {
+                "killer_addon_name": "Clock Hands",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ClockHands.png"
+            },
+            {
+                "killer_addon_name": "Gutted Supercom",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/GuttedSupercom.png"
+            },
+            {
+                "killer_addon_name": "Victor’s Razor Blade",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/VictorsRazorBlade.png"
+            },
+            {
+                "killer_addon_name": "Neck Tendril",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/NeckTendril.png"
+            },
+            {
+                "killer_addon_name": "Electrode Cap",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ElectrodeCap.png"
+            },
+            {
+                "killer_addon_name": "Pizza Goggles",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/PizzaGoggles.png"
+            },
+            {
+                "killer_addon_name": "Forged Death Certificate",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ForgedDeathCertificate.png"
+            },
+            {
+                "killer_addon_name": "Electroshock Collar",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ElectroshockCollar.png"
+            },
+            {
+                "killer_addon_name": "Rabbit Remains",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/RabbitRemains.png"
+            },
+            {
+                "killer_addon_name": "Broken Skateboard",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BrokenSkateboard.png"
+            },
+            {
+                "killer_addon_name": "Black Widow Spider",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BlackWidowSpider.png"
+            },
+            {
+                "killer_addon_name": "Chess Piece",
+                "killer_addon_rarity": "Ultra Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ChessPiece.png"
+            },
+            {
+                "killer_addon_name": "Iridescent Soteria Chip",
+                "killer_addon_rarity": "Ultra Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/IridescentSoteriaChip.png"
+            }
+        ]
+    },
+    {
+        "killer_name": "The Slasher",
+        "killer_description": "Jason Voorhees",
+        "killer_icon": "https://www.unwrittenrulebook.com/killerphotos/TheSlasher.png",
+        "killer_addons": [
+            {
+                "killer_addon_name": "Bent Wheel",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BentWheel.png"
+            },
+            {
+                "killer_addon_name": "Knitting Needle",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/KnittingNeedle.png"
+            },
+            {
+                "killer_addon_name": "Orderly’s Shoe",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/OrderlysShoe.png"
+            },
+            {
+                "killer_addon_name": "Garden Claw",
+                "killer_addon_rarity": "Common",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/GardenClaw.png"
+            },
+            {
+                "killer_addon_name": "Bloody Smile",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BloodySmile.png"
+            },
+            {
+                "killer_addon_name": "Party Noisemaker",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/PartyNoisemaker.png"
+            },
+            {
+                "killer_addon_name": "Toxic Waste",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ToxicWaste.png"
+            },
+            {
+                "killer_addon_name": "Coroner’s Coffee",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/CoronersCoffee.png"
+            },
+            {
+                "killer_addon_name": "Sleeping Bag",
+                "killer_addon_rarity": "Uncommon",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/SleepingBag.png"
+            },
+            {
+                "killer_addon_name": "Sauna Rock",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/SaunaRock.png"
+            },
+            {
+                "killer_addon_name": "Two Nails",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/TwoNails.png"
+            },
+            {
+                "killer_addon_name": "Imprinted Aluminium",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/ImprintedAluminum.png"
+            },
+            {
+                "killer_addon_name": "Mirror Shards",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/MirrorShards.png"
+            },
+            {
+                "killer_addon_name": "Eye Goop",
+                "killer_addon_rarity": "Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/EyeGoop.png"
+            },
+            {
+                "killer_addon_name": "Bloody Magazine",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BloodyMagazine.png"
+            },
+            {
+                "killer_addon_name": "Missing Corkscrew",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/MissingCorkscrew.png"
+            },
+            {
+                "killer_addon_name": "Burnt Fuse",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/BurntFuse.png"
+            },
+            {
+                "killer_addon_name": "Deputy’s Badge",
+                "killer_addon_rarity": "Very Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/DeputysBadge.png"
+            },
+            {
+                "killer_addon_name": "Iridescent Boat Motor",
+                "killer_addon_rarity": "Ultra Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/IridescentBoatMotor.png"
+            },
+            {
+                "killer_addon_name": "Dirty Money",
+                "killer_addon_rarity": "Ultra Rare",
+                "killer_addon_icon": "https://www.unwrittenrulebook.com/killeraddons/DirtyMoney.png"
             }
         ]
     }
