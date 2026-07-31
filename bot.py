@@ -41,6 +41,10 @@ try:
 
     print("Starting bot...")
 
+
+    import asyncio
+    asyncio.get_running_loop().set_exception_handler(handle_async_exception)
+    
     bot.run(TOKEN)
 
 except Exception:

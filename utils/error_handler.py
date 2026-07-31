@@ -18,22 +18,23 @@ sys.excepthook = log_exception
 def handle_async_exception(loop, context):
     exception = context.get("exception")
     if exception:
-        error_msg = "".join(traceback.format_exception(type(exception), exception, exception.__traceback__))
+        error_msg = "".join(
+            traceback.format_exception(
+                type(exception),
+                exception,
+                exception.__traceback__
+            )
+        )
     else:
         error_msg = str(context)
 
     save_error(error_msg)
 
-loop = asyncio.get_event_loop()
-loop.set_exception_handler(handle_async_exception)
-
 class DiscordLogHandler(logging.Handler):
     def emit(self, record):
         if record.levelno >= logging.ERROR:
-            error_msg = self.format(record)
-            save_error(error_msg)
+            save_error(self.format(record))
 
 discord_logger = logging.getLogger("discord")
 discord_logger.setLevel(logging.ERROR)
 discord_logger.addHandler(DiscordLogHandler())
-
