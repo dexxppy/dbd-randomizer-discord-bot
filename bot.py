@@ -1,27 +1,48 @@
-import discord
-import os
+import traceback
 
-from discord.ext import commands
-from dotenv import load_dotenv
+try:
+    import discord
+    import os
 
-from utils.error_handler import *
-from utils.commands import register_commands, register_help_command, register_character_specific_commands
-from utils.events import register_events
+    from discord.ext import commands
+    from dotenv import load_dotenv
 
-intents = discord.Intents.default()
-intents.message_content = True
-intents.guilds = True
-bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
+    from utils.error_handler import *
+    from utils.commands import (
+        register_commands,
+        register_help_command,
+        register_character_specific_commands,
+    )
+    from utils.events import register_events
 
-load_dotenv()
-TOKEN = os.getenv('DISCORD_BOT_TOKEN')
-CHANNEL_ID = int(os.getenv('LOG_CHANNEL_ID'))
+    intents = discord.Intents.default()
+    intents.message_content = True
+    intents.guilds = True
 
-register_help_command(bot)
-register_character_specific_commands(bot)
-register_commands(bot, "killer")
-register_commands(bot, "survivor")
-register_events(bot, CHANNEL_ID)
+    bot = commands.Bot(
+        command_prefix="!",
+        intents=intents,
+        help_command=None
+    )
 
-bot.run(TOKEN)
+    load_dotenv()
 
+    TOKEN = os.getenv("DISCORD_BOT_TOKEN")
+    CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID"))
+
+    print("TOKEN:", TOKEN is not None)
+    print("CHANNEL:", CHANNEL_ID)
+
+    register_help_command(bot)
+    register_character_specific_commands(bot)
+    register_commands(bot, "killer")
+    register_commands(bot, "survivor")
+    register_events(bot, CHANNEL_ID)
+
+    print("Starting bot...")
+
+    bot.run(TOKEN)
+
+except Exception:
+    traceback.print_exc()
+    raise
